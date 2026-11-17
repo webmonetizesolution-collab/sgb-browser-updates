@@ -1,8 +1,9 @@
 {
-    "version": "2.0.36",
-    "latest_version": "2.0.36",
-    "download_url": "",
-    "build": 236,
-    "build_date": "2026-11-10",
-    "release_notes": "SGB Browser v2.0.36 Official Cumulative Update:\n• Method 6 Emulator License Bypass 100% Permanently Applied.\n• Protected Urban VPN (Electric Cyan Edition) Integrated.\n• All original profiles and databases fully protected."
+  "version": "2.0.38",
+  "latest_version": "2.0.38",
+  "build": 238,
+  "build_date": "2026-11-17",
+  "download_url": "https://raw.githubusercontent.com/webmonetizesolution-collab/sgb-browser-updates/main/SGB_Browser_Delta_v2.0.38.zip",
+  "release_notes": "SGB Browser v2.0.38 Official Cumulative Update:\n• Fixed Custom Proxy (Method 5) Facebook account creation redirect loop.\n• Restored 100% official v2.0.37 clean residential ISP & session verification.\n• All original profiles and databases fully protected.",
+  "changelog": "• Fixed Custom Proxy (Method 5) 100% Official Engine Integration.\n• Fixed Login screen redirect during Custom Proxy signup.\n• Full SGB Browser software & 7 automation bots stability improvements."
 }
