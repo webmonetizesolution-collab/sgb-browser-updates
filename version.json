@@ -1,9 +1,9 @@
 {
-  "version": "2.0.38",
-  "latest_version": "2.0.38",
-  "build": 238,
-  "build_date": "2026-11-17",
-  "download_url": "https://raw.githubusercontent.com/webmonetizesolution-collab/sgb-browser-updates/main/SGB_Browser_Delta_v2.0.38.zip",
-  "release_notes": "SGB Browser v2.0.38 Official Cumulative Update:\n• Fixed Custom Proxy (Method 5) Facebook account creation redirect loop.\n• Restored 100% official v2.0.37 clean residential ISP & session verification.\n• All original profiles and databases fully protected.",
-  "changelog": "• Fixed Custom Proxy (Method 5) 100% Official Engine Integration.\n• Fixed Login screen redirect during Custom Proxy signup.\n• Full SGB Browser software & 7 automation bots stability improvements."
+  "version": "2.0.39",
+  "latest_version": "2.0.39",
+  "build": 239,
+  "build_date": "2026-11-18",
+  "download_url": "https://raw.githubusercontent.com/webmonetizesolution-collab/sgb-browser-updates/main/SGB_Browser_Delta_v2.0.39.zip",
+  "release_notes": "SGB Browser v2.0.39 Official Cumulative Update:\n• Fixed Custom Proxy (Browser & Emulator Method 5) Login redirect bug & OTP flow.\n• Upgraded FB Forget Browser (Bot #7) with Isolated Ephemeral Via Browser Profiles & Anti-Detect Rotation.\n• Added Custom Proxy (DataImpulse / HTTP / SOCKS5) routing & Event-Driven Green OTP Indicator.\n• Enforced SMS-only selection with native hardware tap, 1x automatic retry & post-session data shredder.\n• Fixed VIP Lifetime topbar badge display & preserved all user profiles/timelines.",
+  "changelog": "• Fixed Custom Proxy (Method 5 & Emulator) login screen redirect bug & OTP verification flow.\n• Upgraded FB Forget (Bot #7): Isolated Per-Thread Ephemeral Profiles & 100% Post-Session Wipe.\n• Added 24+ Unique Mobile ViaBrowser User-Agents with WebGL/Canvas/Audio Fingerprint Spoofing.\n• Added Custom Proxy support, Event-Driven Green OTP Indicator, and SMS-Only Selection + 1x Retry.\n• Fixed VIP Lifetime topbar badge display & software stability improvements."
 }
