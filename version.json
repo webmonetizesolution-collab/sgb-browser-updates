@@ -1,11 +1,11 @@
 {
-  "version": "2.0.43",
-  "latest_version": "2.0.43",
-  "build": 243,
+  "version": "2.0.44",
+  "latest_version": "2.0.44",
+  "build": 244,
   "build_date": "2026-11-26",
-  "download_url": "https://raw.githubusercontent.com/webmonetizesolution-collab/sgb-browser-updates/main/SGB_Browser_Delta_v2.0.43.zip",
-  "release_notes": "SGB Browser v2.0.43 Official Complete Release:\n• Upgraded Bot #7 ('🔍 Filter' / Headless GraphQL Number Filter Engine) to support up to 50 Worker Threads (1–50) with Per-Worker Multi-Session Token Pooling (datr + lsd), Automatic Direct No-VPN International Account Detection, and Zero False 'No Account Found' verification.\n• Fixed Bot #7 Row 2 UI dropdown overlap ('Gateway' & 'Method') and expanded 'Threads' (1–20), 'Delay', and 'Worker Threads' (1–50) counter spinboxes with centered high-contrast styling for 100% visibility across all display sizes and DPI scalings.\n• Fixed 'Get Token Cookie' extension import & 1-click auto-login, full cookie capture (c_user + xs + fr + datr + sb), accurate UID extraction, and 5-format Save/Copy/Import/Export (UID|Pass|2FA|Cookie, UID|Pass|Cookie, UID|Cookie, Only Cookie, Only UID).\n• Fixed StudioFramelessModal initialization hook in Profile Info, Top-Bar '📁 Groups', and Video Publisher modals.\n• Updated Sidebar '🌐 Site' button to open official Telegram channel (https://t.me/Sjrgui) and enforced 100% End-to-End Password & Group integrity.",
-  "changelog": "• Upgraded '🔍 Filter' to 50 Worker Threads (1–50) with Multi-Session Token Pool and 100% accurate No-VPN international account detection.\n• Fixed Bot #7 Row 2 'Gateway'/'Method' overlap and made 'Threads' & 'Worker Threads' counters 100% crisp and visible on all display sizes.\n• Fixed 'Get Token Cookie' extension import/login, complete c_user+xs cookie capture, and 5-format Save/Import/Export.",
-  "sha256": "bcc049665517e44f7cd9d8740e61734a499bb96ba4f1d4837c5e051939dc8521",
-  "size_bytes": 1218753
+  "download_url": "https://raw.githubusercontent.com/webmonetizesolution-collab/sgb-browser-updates/main/SGB_Browser_Delta_v2.0.44.zip",
+  "release_notes": "SGB Browser v2.0.44 Official Complete Public Release:\n• Added 2 new 100% non-repeating mobile browser modes in Bot #7 (9-Mode Anti-Detect Engine): 'iPhone Old Safari' (classic iPhone iOS 12–15 Mobile Safari) and 'Brave Mobile Browser' (strictly Android & iPhone ONLY with authentic navigator.brave + Sec-GPC: 1 headers) using cryptographic zero-repeat User-Agent generation.\n• Added Permanent Zero-Trace Ephemeral Cleanup inside Bot #7 (instant CDP cookie/cache wipe + ephemeral session directory shredding + garbage collection after every browser close while keeping saved profiles 100% intact).\n• Upgraded Bot #7 '🔍 Filter' (Headless GraphQL Number Filter Engine) to 50 Worker Threads (1–50) with Pre-Warmed 5-Slot Multi-Session Token Pool, strict No-Account verification, and smooth table scroll throttling.\n• Fixed crisp, always-visible Up/Down (▲/▼) arrow buttons on all Threads, Delay & Filter Worker Threads spinboxes and clean non-overlapping Row 2 layout.\n• Eliminated VPN Search Bar 'Not Responding' freezes on 4GB/8GB RAM PCs via 300ms debounce, background bridge sync, and background startup cleanup.\n• Includes all v2.0.43 stability fixes (Get Token Cookie extension 1-click import/login, full c_user+xs capture, 5-format export, and StudioFramelessModal fixes).",
+  "changelog": "• Added non-repeating 'iPhone Old Safari' & 'Brave Mobile Browser' (Android & iPhone only) to Bot #7 (9-Mode Engine).\n• Added Permanent Zero-Trace Cookie/Cache/Session Wipe after every Bot #7 session.\n• Upgraded '🔍 Filter' to 50 Worker Threads with 5-Slot Token Pool, crisp Up/Down (▲/▼) spinbox arrows, and Zero-Freeze VPN Search Bar optimization for 4GB/8GB PCs.",
+  "sha256": "dfbf4a69ee113d16b9f874dd2b413e40439c3b8c4ecc53c0f53c6be95e8fd314",
+  "size_bytes": 1194758
 }
